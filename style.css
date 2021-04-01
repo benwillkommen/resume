@@ -22,6 +22,14 @@ p {
 	color: #444;
 }
 
+ul.experienceList{
+  font-size: 1em;
+  line-height: 1.4em;
+  margin-bottom: 20px;
+  color: #444;
+  padding-left: 20px;
+}
+
 #cv {
 	width: 90%;
 	max-width: 800px;
